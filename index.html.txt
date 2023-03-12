@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Terms of Service</title>
+    <style>
+      /* CSS code for the Terms of Service */
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.5;
+        margin: 0;
+        padding: 0;
+        background-color: black;
+        color: white;
+      }
+      
+      h1 {
+        font-size: 2.5rem;
+        margin: 1.5rem 0;
+        text-align: center;
+      }
+      
+      h2 {
+        font-size: 1.5rem;
+        margin: 1.5rem 0;
+      }
+      
+      p {
+        margin-bottom: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Terms of Service</h1>
+    <h2>Acceptable Use</h2>
+    <p>Our moderation and gaming Discord bot is provided for entertainment and/or utility purposes only. You agree to use our bot in a lawful and appropriate manner and not to engage in any activity that would interfere with the proper functioning of the bot or the Discord platform. This includes, but is not limited to, spamming, phishing, hacking, or engaging in any other activity that is harmful to our bot or its users.</p>
+    <h2>Disclaimer of Warranty</h2>
+    <p>Our bot is provided "as is" and without warranty of any kind. We make no guarantees as to the availability or reliability of our bot, and we disclaim all liability for any damages arising out of or in connection with your use of our bot.</p>
+    <h2>Intellectual Property</h2>
+    <p>All trademarks, logos, and service marks displayed on our bot are the property of their respective owners. You agree not to use any of these marks without the prior written consent of the owner.</p>
+    <h2>Modifications</h2>
+    <p>We reserve the right to modify, suspend, or discontinue our bot at any time, without notice or liability to you.</p>
+    <h2>Privacy</h2>
+    <p>We may collect certain information from you in connection with your use of our bot. Please see our Privacy Policy for more information.</p>
+    <h2>Indemnification</h2>
+    <p>You agree to indemnify and hold us harmless from any and all claims, damages, losses, liabilities, and expenses arising out of or in connection with your use of our bot.</p>
+    <h2>Governing Law</h2>
+    <p>These terms and conditions shall be governed by and construed in accordance with the laws of [insert governing jurisdiction].</p>
+  </body>
+</html>
